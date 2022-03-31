@@ -1,0 +1,10 @@
+#+title: Readme
+#+author: Filip Helbig
+#+date: <2022-03-31 czw>
+
+
+* App requirements [0/4]
++ [ ] Show a list of things to do
++ [ ] Show a place to add new elements to the list
++ [ ] Add new things to the list
++ [ ] Stylized list
